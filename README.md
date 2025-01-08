@@ -1,51 +1,30 @@
-<h1 align="left">I'm Nazim Uddin</h1>
+### Hi there 👋, I'm Nazim Uddin
+#### Frontend Developer | Building User-Centric Experiences
+![Frontend Developer | Building User-Centric Experiences](https://i.ibb.co.com/j6J9z6S/Whats-App-Image-2025-01-04-at-09-19-43-8608a710.jpg)
 
-###
+Hello! I'm a passionate frontend developer dedicated to creating seamless and visually appealing web experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React, I thrive on turning complex ideas into functional and elegant solutions. I believe in writing clean, maintainable code and staying updated with the latest technologies to deliver top-notch results. Let's build something amazing together!
 
-<p align="left">Frontend Developer | Building User-Centric Experiences</p>
+Skills: NOTE JS / REACT / JS / HTML / CSS
 
-###
+- 🔭 I’m currently working on Video Editing and Coding. 
+- 🌱 I’m currently learning Backend. 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web Development 
 
-<h2 align="left">About me</h2>
 
-###
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nazim1247)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1BPK8VijLn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@najimuddin-cv5eb?si=muFnCh-RxYEQ2ub5)  
 
-<p align="left">Hello! I'm a passionate frontend developer dedicated to creating seamless and visually appealing web experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React, I thrive on turning complex ideas into functional and elegant solutions. I believe in writing clean, maintainable code and staying updated with the latest technologies to deliver top-notch results. Let's build something amazing together!</p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-###
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Nazim1247)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 align="left">I code with</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Nazim1247)](https://github.com/anuraghazra/github-readme-stats)
 
-###
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Nazim1247&show_icons=true&count_private=true)  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Nazim1247/contributions?format=svg&private=true)  
 
-###
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Nazim1247)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Nazim1247)  
+
