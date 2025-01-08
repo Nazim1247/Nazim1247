@@ -15,14 +15,14 @@
 
 ###
 
-<p align="left">Hello! I'm a passionate frontend developer dedicated to creating seamless and visually appealing web experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React, I thrive on turning complex ideas into functional and elegant solutions. I believe in writing clean, maintainable code and staying updated with the latest technologies to deliver top-notch results. Let's build<br><br>✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">Hello! I'm a passionate frontend developer dedicated to creating seamless and visually appealing web experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React, I thrive on turning complex ideas into functional and elegant solutions. I believe in writing clean, maintainable code and staying updated with the latest technologies to deliver top-notch results. Let's build something amazing together!</p>
 
 ###
 
 ### <div align="center"></div>  
   
 
-- I’m currently Working VS Code  
+- 🏗️ I’m currently Working Web Development  
   
 
 - 🌱 I’m currently learning Backen  
