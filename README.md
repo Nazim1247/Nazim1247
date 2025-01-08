@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co.com/Lt3zGDb/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" />
 </div>  
 
-### I'm Nazim Uddin
+## I'm Nazim Uddin
 
 <p align="left">Frontend Developer | Building User-Centric Experiences</p>
 
