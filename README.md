@@ -1,10 +1,15 @@
-### Hi there 👋, I'm Nazim Uddin
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nazim1247)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1BPK8VijLn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@najimuddin-cv5eb?si=muFnCh-RxYEQ2ub5)
+
+## I'm Nazim Uddin
 #### Frontend Developer | Building User-Centric Experiences
 ![Frontend Developer | Building User-Centric Experiences](https://i.ibb.co.com/j6J9z6S/Whats-App-Image-2025-01-04-at-09-19-43-8608a710.jpg)
 
+## About Me
 Hello! I'm a passionate frontend developer dedicated to creating seamless and visually appealing web experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React, I thrive on turning complex ideas into functional and elegant solutions. I believe in writing clean, maintainable code and staying updated with the latest technologies to deliver top-notch results. Let's build something amazing together!
 
-Skills: NOTE JS / REACT / JS / HTML / CSS
+## Skills
+NOTE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Video Editing and Coding. 
 - 🌱 I’m currently learning Backend. 
@@ -12,7 +17,7 @@ Skills: NOTE JS / REACT / JS / HTML / CSS
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nazim1247)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1BPK8VijLn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@najimuddin-cv5eb?si=muFnCh-RxYEQ2ub5)  
+  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
