@@ -2,7 +2,7 @@
 
   
 <div align="center">
-<img src="https://i.ibb.co.com/j6J9z6S/Whats-App-Image-2025-01-04-at-09-19-43-8608a710.jpg" align="center" height="300" width="300" />
+<img src="[https://i.ibb.co.com/j6J9z6S/Whats-App-Image-2025-01-04-at-09-19-43-8608a710.jpg" align="center" height="300" width="300](https://i.ibb.co.com/Lt3zGDb/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)" />
 </div>  
 
 ### I'm Nazim Uddin
