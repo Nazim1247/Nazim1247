@@ -77,7 +77,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 </a>  
 <a href="https://expressjs.com/" target="_blank">
-  <img src="https://i.ibb.co/6JYG280h/images.png" alt="Express.js" height="50" />
+  <img src="https://i.ibb.co/6JYG280h/images.png" alt="Express.js" height="50" width="60" />
 </a>  
 <a href="https://firebase.google.com/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
