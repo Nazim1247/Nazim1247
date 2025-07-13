@@ -82,6 +82,9 @@
 <a href="https://firebase.google.com/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
 </a>  
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://images.app.goo.gl/jwekU1XhLk7wuARQA" alt="Firebase" height="50" />
+</a>  
 </div>
 
 
