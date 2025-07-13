@@ -25,7 +25,7 @@
 - 🏗️ I’m currently Working Web Development  
   
 
-- 🌱 I’m currently learning Backen  
+- 🌱 I’m currently learning Backend  
   
 
 - ❓ Ask me about Web Development  
