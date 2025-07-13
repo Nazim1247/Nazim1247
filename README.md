@@ -43,6 +43,7 @@
 
 ### Frontend
 
+<div align="between">
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 </a>  
@@ -64,10 +65,11 @@
 <a href="https://www.tailwindcss.com/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
 </a>  
-
+</div>
 
 ### Backend
 
+<div align="between">
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 </a>  
@@ -80,8 +82,7 @@
 <a href="https://firebase.google.com/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
 </a>  
-
-
+</div>
 
 
 <br/>  
