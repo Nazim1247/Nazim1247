@@ -39,9 +39,7 @@
 
 ## My Skill Set
 
-<table>
-<tr>
-<td align="center" width="50%">
+
 
 ### Frontend
 
@@ -67,9 +65,6 @@
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
 </a>  
 
-</td>
-
-<td align="center" width="50%">
 
 ### Backend
 
@@ -86,9 +81,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
 </a>  
 
-</td>
-</tr>
-</table>
+
 
 
 <br/>  
